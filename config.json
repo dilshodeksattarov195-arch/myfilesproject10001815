@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedncrypt",
+        "uuid": 8797305,
+        "checksum": "y892v"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
